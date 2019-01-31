@@ -1,6 +1,6 @@
 ---
-title: Tecnologia e Informação
-subtitle: 'Programação, Engenharia de Software, Gestão de T.I e muito mais.'
+title: /**/
+subtitle: ()
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
